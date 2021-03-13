@@ -1,8 +1,5 @@
 ### Hi I am Viral Kumar Maurya 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... CSWala
 - 🌱 I’m currently learning ... Java and Android Studio
 - 👯 I’m looking to collaborate on ... More open source projects
