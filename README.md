@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about Anything
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viral-kumar-maurya-437652125/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a noob
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: 
 -->
