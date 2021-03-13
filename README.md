@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... More open source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn] https://www.linkedin.com/in/viral-kumar-maurya-437652125/
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/viral-kumar-maurya-437652125/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 -->
