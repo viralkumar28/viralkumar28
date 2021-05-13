@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I am Viral Kumar Maurya</h1>
 
-</h2> I am an Android App Developer from India</h2>
+</h2> I am an Android App Developer from India</h2> 
 
 Skills: JAVA / Android Studio
 
@@ -9,6 +9,8 @@ Skills: JAVA / Android Studio
 - 👯 I’m looking to collaborate on more in open source projects 
 - 💬 Ask me about anything 
 - 😄 Pronouns: He/His 
+
+
 
 <br><h1>🛠️ Languages| Tools I work on...</h1>
 <div style="display:flex;">
@@ -27,4 +29,5 @@ Skills: JAVA / Android Studio
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralkumar28&layout=compact&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=viralkumar28" />
  
