@@ -1,4 +1,4 @@
-### Hi there 👋, I am Viral Kumar Maurya
+<h1> Hi there 👋, I am Viral Kumar Maurya</h1>
 #### I am an Android App Developer from India
 
 Skills: JAVA / Android Studio
