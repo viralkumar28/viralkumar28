@@ -17,6 +17,7 @@ Skills: JAVA / Android Studio
  <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></a>
  <a><img height="48" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a>
  <a><img height="48" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"></a>
+ <a><img height="48" src="http://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub"></a>
  </div> 
 
 ### Connect with me:
