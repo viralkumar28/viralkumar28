@@ -31,5 +31,5 @@ Skills: JAVA / Android Studio
 <img align="right" src="https://komarev.com/ghpvc/?username=viralkumar28" />
 </div>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viralkumar28&" alt="viralkumar28" /></p>
  
