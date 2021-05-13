@@ -24,6 +24,9 @@ Skills: JAVA / Android Studio
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viralkumar28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viral-kumar-maurya-437652125//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/viralkumar01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya)  
 
-
-
-
+<br><h1>📈 Github Repo Stats</h1>
+<div style="display:flex;">
+<img src="https://github-readme-stats.vercel.app/api?username=viralkumar28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralkumar28&layout=compact&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
+<img align="right" src="https://komarev.com/ghpvc/?username=viralkumar28" />
+</div>
