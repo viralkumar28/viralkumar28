@@ -18,6 +18,8 @@ Skills: JAVA / Android Studio
  <a><img height="48" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a>
  <a><img height="48" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"></a>
  <a><img height="48" src="http://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub"></a>
+ <a><img height="48" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML"></a>
+ <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS"></a>
  </div> 
 
 <h1> Connect with me: </h1>
