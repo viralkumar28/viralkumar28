@@ -1,7 +1,5 @@
 <h1> Hi there 👋, I am Viral Kumar Maurya</h1>
 
-</h2> I am an Android App Developer from India</h2> 
-
 Skills: JAVA / Android Studio
 
 - 🔭 I’m currently working on CSWala 
