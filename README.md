@@ -13,11 +13,16 @@ Skills: JAVA / Android Studio
 <br><h1>🛠️ Languages | Tools I work on...</h1>
 <div style="display:flex;">
  <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></a>
+ <a><img height="48" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="Kotlin"></a>
  <a><img height="48" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a>
+ <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"></a>
+ <a><img height="48" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="Flutter"></a>
  <a><img height="48" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"></a>
  <a><img height="48" src="http://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub"></a>
  <a><img height="48" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS"></a>
+ <a><img height="48" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap"></a>
+ <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a>
  </div> 
 
