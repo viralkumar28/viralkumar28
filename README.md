@@ -18,6 +18,7 @@ Skills: JAVA / Android Studio
  <a><img height="48" src="http://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub"></a>
  <a><img height="48" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS"></a>
+ <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a>
  </div> 
 
 <h1> Connect with me: </h1>
