@@ -24,6 +24,7 @@ Skills: JAVA / Android Studio
  <a><img height="48" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></a>
+ <a><img height="48" src="https://cadcreations.co.ke/wp-content/uploads/Adobe_Illustrator_CC_icon1200px.png" alt="Illustrator"></a>
  </div> 
 
 <h1> Connect with me: </h1>
