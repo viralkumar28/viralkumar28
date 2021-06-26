@@ -33,7 +33,7 @@ Skills: JAVA / Android Studio
 
 <h1>Compatitive Programming</h1>
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya) 
 
 <h1> </h1>
 [<img src='https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png' alt='codepen' height='40'>](https://codepen.io/viralkumar28)
