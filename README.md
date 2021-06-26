@@ -34,8 +34,11 @@ Skills: JAVA / Android Studio
 <h1>Compatitive Programming</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya) 
+[<img src='https://leetcode.com/static/images/LeetCode_logo.png' alt='leetcode' height='40'>](https://leetcode.com/viralkumarmaurya/)
+[<img src='https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png' alt='codechef' height='40'>](https://www.codechef.com/users/vrial28)
 
-<h1> </h1>
+<br><h1>Code Showcasing </h1>
+
 [<img src='https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png' alt='codepen' height='40'>](https://codepen.io/viralkumar28)
 
 <br><h1>📈 Github Repo Stats</h1>
