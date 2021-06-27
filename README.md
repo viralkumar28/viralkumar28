@@ -2,7 +2,7 @@
 
 Skills: JAVA / Android Studio
 
-- 🔭 I’m currently working on Myself 
+- 🔭 I’m currently working on portfolio project
 - 🌱 I’m currently learning Java and Android Studio 
 - 👯 I’m looking to collaborate on more in open source projects 
 - 💬 Ask me about anything 
