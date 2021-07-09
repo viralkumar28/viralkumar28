@@ -19,7 +19,7 @@ Skills: JAVA / Android Studio
  <a><img height="48" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="Flutter"></a>
  <a><img height="48" src="https://img.icons8.com/color/452/firebase.png" alt="Firebase"></a>
  <a><img height="48" src="http://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub"></a>
- <a><img height="48" src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML"></a>
+ <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS"></a>
  <a><img height="48" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="BootStrap"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"></a>
