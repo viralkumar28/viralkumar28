@@ -13,7 +13,7 @@ Skills: JAVA / Android Studio
 <br><h1>🛠️ Languages | Tools I work on...</h1>
 <div style="display:flex;">
  <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></a>
- <a><img height="48" src="https://www.pngix.com/pngfile/middle/213-2134143_kotlin-logo-png-transparent-kotlin-logo-png-png.png" alt="Kotlin"></a>
+ <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin"></a>
  <a><img height="48" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"></a>
  <a><img height="48" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" alt="Flutter"></a>
