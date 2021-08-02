@@ -37,7 +37,7 @@ Skills: JAVA / Android Studio
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/vrial28)
 [<img src='http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png' alt='interviewbit' height='40'>](https://www.interviewbit.com/profile/viral-kumar-maurya)
 
-<br><h1>Code Showcasing </h1>
+<h1>Code Showcasing </h1>
 
 [<img src='https://cpwebassets.codepen.io/assets/social/facebook-default-05cf522ae1d4c215ae0f09d866d97413a2204b6c9339c6e7a1b96ab1d4a7340f.png' alt='codepen' height='40'>](https://codepen.io/viralkumar28)
 
