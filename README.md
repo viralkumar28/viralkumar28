@@ -33,9 +33,9 @@ Skills: JAVA / Android Studio
 <h1>Compatitive Programming</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya) 
-[<img src='https://leetcode.com/static/images/LeetCode_logo.png' alt='leetcode' height='40'>](https://leetcode.com/viralkumarmaurya/)
-[<img src='https://miro.medium.com/max/333/1*1W0-bbmt4iiEpp_pPrS0VQ.png' alt='codechef' height='40'>](https://www.codechef.com/users/vrial28)
-[<img src='http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png' alt='intervirebit' height='40'>](https://www.interviewbit.com/profile/viral-kumar-maurya)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/viralkumarmaurya/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/vrial28)
+[<img src='http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png' alt='interviewbit' height='40'>](https://www.interviewbit.com/profile/viral-kumar-maurya)
 
 <br><h1>Code Showcasing </h1>
 
