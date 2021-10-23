@@ -17,6 +17,7 @@ Skills: JAVA / Android Studio
 <!--  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="Flutter"></a> -->
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="Firebase"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub"></a>
+ <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML"></a>
  <a><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="BootStrap"></a>
