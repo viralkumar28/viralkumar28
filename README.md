@@ -34,7 +34,7 @@ Skills: JAVA / Android Studio
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vkm28/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/vrial28)
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/vrial28) -->
 [<img src='http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png' alt='interviewbit' height='40'>](https://www.interviewbit.com/profile/viral-kumar-maurya)
 
 <h1>Code Showcase </h1>
