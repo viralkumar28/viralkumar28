@@ -11,10 +11,7 @@ Skills: JAVA / Android Studio
 <br><h1>🛠️ Languages | Tools I work on...</h1>
 <div style="display:flex;">
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java"></a>
-<!--  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kotlin.svg" alt="Kotlin"></a> -->
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg" alt="Android Studio"></a>
-<!--  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dart.svg" alt="Dart"></a> -->
-<!--  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="Flutter"></a> -->
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="Firebase"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git"></a>
@@ -23,7 +20,6 @@ Skills: JAVA / Android Studio
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="BootStrap"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript"></a>
  <a><img height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL"></a>
-<!--  <a><img height="48" src="https://cadcreations.co.ke/wp-content/uploads/Adobe_Illustrator_CC_icon1200px.png" alt="Illustrator"></a> -->
  </div> 
 
 <h1> Connect with me: </h1>
@@ -43,7 +39,6 @@ Skills: JAVA / Android Studio
 <div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=viralkumar28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralkumar28&layout=compact&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
-<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viralkumar28&" alt="viralkumar28" /></p> -->
  
  
  [![Viral Kumar Maurya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viralkumar28&theme=xcode)](https://git.io/viralkumar28)
