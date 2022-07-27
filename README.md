@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I am <a href="https://viralkumar28.github.io/mywebsite/">Viral Kumar Maurya</a></h1>
 
-Skills: JAVA / Android Studio
+Skills: JAVA / Android Studio / Flutter
 
 - 🔭 I’m currently finding internship.
 - 🌱 I’m currently learning Java and Android Studio 
