@@ -1,3 +1,7 @@
+
+![Gif](https://media.giphy.com/media/amnDY6qojNKmd6FTk3/giphy.gif)
+
+
 <h1> Hi there 👋, I am <a href="https://viralkumar28.github.io/mywebsite/">Viral Kumar Maurya</a></h1>
 
 Skills: JAVA / Android Studio / Flutter
@@ -44,4 +48,4 @@ Skills: JAVA / Android Studio / Flutter
  
  [![Viral Kumar Maurya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viralkumar28&theme=xcode)](https://git.io/viralkumar28)
 
-</div>
+![Gif](https://media.giphy.com/media/eCAleiOc0WNKOxrqje/giphy.gif)
