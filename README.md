@@ -6,6 +6,7 @@ Skills: JAVA / Android Studio / Flutter
 - 🌱 I’m currently learning Java and Android Studio 
 - 👯 I’m looking to collaborate on more in open source projects 
 
+![Gif](https://media.giphy.com/media/zdF3lMDlvCYWA/giphy.gif)
 
 
 <br><h1>🛠️ Languages | Tools I work on...</h1>
