@@ -47,5 +47,3 @@ Skills: JAVA / Android Studio / Flutter
  
  
  [![Viral Kumar Maurya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=viralkumar28&theme=xcode)](https://git.io/viralkumar28)
-
-![Gif](https://media.giphy.com/media/eCAleiOc0WNKOxrqje/giphy.gif)
