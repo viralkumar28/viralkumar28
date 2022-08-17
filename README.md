@@ -31,11 +31,10 @@ Skills: JAVA / Android Studio / Flutter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/viralkumar28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vk28)   
 
-<h1>Wanna be Compatitive Programmer</h1>
+<h1>Other Stuff</h1>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vkm28/)
-[<img src='http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png' alt='interviewbit' height='40'>](https://www.interviewbit.com/profile/viral-kumar-maurya)
 
 <br><h1>📈 Github Repo Stats</h1>
 <div style="display:flex;">
