@@ -37,9 +37,6 @@ Skills: JAVA / Android Studio / Flutter
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vkm28/)
 [<img src='http://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png' alt='interviewbit' height='40'>](https://www.interviewbit.com/profile/viral-kumar-maurya)
 
-
-![Gif](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
-
 <br><h1>📈 Github Repo Stats</h1>
 <div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=viralkumar28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
