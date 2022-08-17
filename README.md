@@ -1,6 +1,6 @@
-
-![Gif](https://media.giphy.com/media/amnDY6qojNKmd6FTk3/giphy.gif)
-
+<div align="center">
+<img width="500" height="300" src="https://media.giphy.com/media/amnDY6qojNKmd6FTk3/giphy.gif"/>
+</div>
 
 <h1> Hi there 👋, I am <a href="https://viralkumar28.github.io/mywebsite/">Viral Kumar Maurya</a></h1>
 
@@ -10,8 +10,9 @@ Skills: JAVA / Android Studio / Flutter
 - 🌱 I’m currently learning Java and Android Studio 
 - 👯 I’m looking to collaborate on more in open source projects 
 
-![Gif](https://media.giphy.com/media/zdF3lMDlvCYWA/giphy.gif)
-
+<div align="center">
+<img width="500" height="500" src="https://media.giphy.com/media/zdF3lMDlvCYWA/giphy.gif"/>
+</div>
 
 <br><h1>🛠️ Languages | Tools I work on...</h1>
 <div style="display:flex;">
