@@ -36,8 +36,3 @@ Skills: JAVA / Android Studio / Flutter
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/viralkumarmaurya) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/vkm28/)
-
-<br><h1>📈 Github Repo Stats</h1>
-<div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=viralkumar28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viralkumar28&layout=compact&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
