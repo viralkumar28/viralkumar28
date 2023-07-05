@@ -42,3 +42,5 @@ Skills: JAVA / Android Studio / Flutter
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viralkumar28)](https://git.io/streak-stats)
 
 ![Viral Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=viralkumar28&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viralkumar28&hide_progress=true)
