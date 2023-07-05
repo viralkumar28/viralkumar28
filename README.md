@@ -6,7 +6,7 @@
 
 Skills: JAVA / Android Studio / Flutter
 
-- 🔭 I’m currently finding internship.
+- 🔭 I’m currently finding an internship.
 - 🌱 I’m currently learning Java and Android Studio 
 - 👯 I’m looking to collaborate on more in open source projects 
 
@@ -40,3 +40,5 @@ Skills: JAVA / Android Studio / Flutter
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viralkumar28)](https://git.io/streak-stats)
+
+![Viral Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=viralkumar28&show_icons=true)
