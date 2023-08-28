@@ -41,6 +41,8 @@ Skills: JAVA / Android Studio / Flutter
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viralkumar28)](https://git.io/streak-stats)
 
-![Viral Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=viralkumar28&show_icons=true)
+[![viralkumar28's GitHub | Stats](https://stats.quine.sh/viralkumar28/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=viralkumar28)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viralkumar28&hide_progress=true)
+[![viralkumar28's GitHub | Languages Over Time](https://stats.quine.sh/viralkumar28/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=viralkumar28)
+
+[![viralkumar28's GitHub | Topics Over Time](https://stats.quine.sh/viralkumar28/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=viralkumar28)
