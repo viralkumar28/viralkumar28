@@ -2,11 +2,11 @@
 <img width="500" height="300" src="https://media.giphy.com/media/amnDY6qojNKmd6FTk3/giphy.gif"/>
 </div>
 
-<h1> Hi there 👋, I am <a href="https://viralkumar28.github.io/mywebsite/">Viral Kumar Maurya</a></h1>
+<h1> Hi there 👋, I am Viral Kumar Maurya</h1>
 
 Skills: JAVA / Android Studio / Flutter
 
-- 🔭 I’m currently finding an internship.
+- 🔭 I’m currently looking for an internship.
 - 🌱 I’m currently learning Java and Android Studio 
 - 👯 I’m looking to collaborate on more in open source projects 
 
