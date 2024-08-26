@@ -4,7 +4,7 @@
 
 <h1> Hi there 👋, I am Viral Kumar Maurya</h1>
 
-Skills: JAVA / Jira / Manual Tetsing / API Tetsing / Android Studio
+Skills: JAVA / Jira / Manual Testing / API Testing / Android Studio
 
 - 🔭 I’m currently looking for an internship.
 - 🌱 I’m currently learning Java and Android Studio 
